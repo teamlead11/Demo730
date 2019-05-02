@@ -20,6 +20,10 @@ public class Demo {
 		System.out.println(a + b + c);
 	}
 
+	public static void multimethodByUser1(int a, int b) {
+		System.out.println(a * b);
+	}
+
 	public static void multimethodByUserx(int a, int b, int c) {
 		System.out.println(a * b * c);
 	}
