@@ -15,4 +15,8 @@ public class Demo {
 	public static void AddmethodByUser1(int a, int b) {
 		System.out.println(a + b);
 	}
+
+	public static void methodByUser2(int a, int b, int c) {
+		System.out.println(a + b + c);
+	}
 }
