@@ -19,4 +19,9 @@ public class Demo {
 	public static void methodByUser2(int a, int b, int c) {
 		System.out.println(a + b + c);
 	}
+
+	public static void multimethodByUserx(int a, int b, int c) {
+		System.out.println(a * b * c);
+	}
+
 }
