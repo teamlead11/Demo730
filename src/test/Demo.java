@@ -12,4 +12,7 @@ public class Demo {
 		System.out.println("added a new program");
 	}
 
+	public static void AddmethodByUser1(int a, int b) {
+		System.out.println(a + b);
+	}
 }
